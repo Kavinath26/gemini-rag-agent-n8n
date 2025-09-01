@@ -1,7 +1,7 @@
 # Gemini RAG AI Agent
 
 An end-to-end Retrieval-Augmented Generation (RAG) pipeline built with **n8n**, **Google Gemini**, and **Supabase**.  
-The agent retrieves information from documents (PDF/CSV) and provides contextual answers in real time.
+The agent retrieves information from documents and provides contextual answers in real time.
 
 ---
 
